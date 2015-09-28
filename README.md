@@ -7,12 +7,6 @@ This is an open-source app to demonstrate how Avocarrot Native Ads look and how 
 
 [Learn More](http://www.avocarrot.com/) 
 
-Support
----------------------
-
-If you're having problems with using the project, you can reach us at: 
-support@avocarrot.com 
-
 Setup
 --------------------
 
@@ -26,4 +20,9 @@ Documentation
 To find more information on how you can setup your Avocarrot Native Ads, go here:
 [Avocarrot Unity Documentation](http://app.avocarrot.com/#/docs/getting-started/unity) 
 
+Support
+---------------------
+
+If you're having problems with using the project, you can reach us at: 
+support@avocarrot.com 
 
