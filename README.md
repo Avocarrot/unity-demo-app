@@ -9,10 +9,19 @@ This is an open-source app to demonstrate how Avocarrot Native Ads look and how 
 
 Setup
 --------------------
+Clone the project:
 
-* git clone https://github.com/Avocarrot/unity-demo-app.git
-* open project in Unity
-* File > Build Settings > select "Android" from the list and "Switch Platform"
+    git clone https://github.com/Avocarrot/unity-demo-app.git
+
+Open the project in Unity:
+
+File > Build Settings > select "Android" from the list and "Switch Platform"
+
+Required Permissions
+--------------------
+
+    INTERNET
+    ACCESS_NETWORK_STATE
 
 Documentation
 --------------------
