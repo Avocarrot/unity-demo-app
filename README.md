@@ -5,6 +5,8 @@ Avocarrot demo-app for Unity
 
 This is an open-source app to demonstrate how Avocarrot Native Ads look and how you can integrate them.
 
+[<img src="http://developer.android.com/images/brand/en_generic_rgb_wo_45.png"/>](https://play.google.com/store/apps/details?id=com.avocarrot.unitydemo)
+
 [Learn More](http://www.avocarrot.com/) 
 
 Setup
